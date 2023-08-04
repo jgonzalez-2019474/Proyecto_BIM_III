@@ -41,6 +41,10 @@ char Incoming_value = 0; //valor entrante del modulo bluetooth
 byte LecturaUID[4]; //almacenará el código del Tag leído
 byte Usuario1[4]= {0xC3, 0xF7, 0x35, 0xAD} ; //usuario 1
 byte Usuario2[4]= {0x22, 0xB9, 0xC9, 0x34} ; //usuario 2
+byte Usuario3[4]= {0x22, 0xB9, 0xC9, 0x34} ; //Usuario 3
+byte Usuario4[4]= {0x22, 0xB9, 0xC9, 0x34} ; //Usuario 4
+byte Usuario5[4]= {0x22, 0xB9, 0xC9, 0x34} ; //Usuario 5
+byte Usuario6[4]= {0x22, 0xB9, 0xC9, 0x34} ; //Usuario 6
 
 
 //Constructores
